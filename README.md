@@ -82,11 +82,10 @@ server
 <img width="777" height="180" alt="Screenshot 2026-07-29 113653" src="https://github.com/user-attachments/assets/eebd1b8e-f143-47b9-9e05-19391772e0a8" />
 
 
-~~~
+
 client
 <img width="742" height="466" alt="Screenshot 2026-07-29 113518" src="https://github.com/user-attachments/assets/11fcdc15-75eb-4ea6-862e-4169adc072d2" />
 
-~~~
 
 ~~~
 ## RESULT
